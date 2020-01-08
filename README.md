@@ -15,3 +15,8 @@ A gathering of quantitative data analysis visuals I have created relating to Fin
 ## Presidential Rankings (GDP vs. S&P Performance)
 
 ![Alt](https://github.com/MoSharieff/QuantitativeVisuals/blob/master/PresidentialPerformance/president.GIF)
+
+
+## Multivariate Regression Competition
+
+![Alt](https://github.com/MoSharieff/QuantitativeVisuals/blob/master/RegressionCompetition/regression.GIF)
